@@ -4,7 +4,7 @@
 - Для начало скачайте его со страницы офицального репазитория [Nakoray](https://github.com/MatsuriDayo/nekoray/releases/tag/3.26)
 - __Но есть для Linux и WIndows__
 
-[[https://media.discordapp.net/attachments/617626417718624276/1293158975352606741/Pasted_image_20240930180817.png?ex=67065ba5&is=67050a25&hm=3420ac1b9755bf899e72e0ca8a5252b2ce000d41db89b07acde9b4b4f8108f52&=&format=webp&quality=lossless&width=960&height=208]]
+![https://media.discordapp.net/attachments/617626417718624276/1293158975352606741/Pasted_image_20240930180817.png?ex=67065ba5&is=67050a25&hm=3420ac1b9755bf899e72e0ca8a5252b2ce000d41db89b07acde9b4b4f8108f52&=&format=webp&quality=lossless&width=960&height=208]
 
 ### Для Windows
 
