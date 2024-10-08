@@ -14,7 +14,7 @@
 
 ![i2](https://media.discordapp.net/attachments/617626417718624276/1293159025013297162/Pasted_image_20240930184616.png?ex=67065bb1&is=67050a31&hm=2853de915ebdef56a86f57cf957c7fe0d97656e2b84cf4a15e72f3dd48c9c2b2&=&format=webp&quality=lossless&width=407&height=334)
 
-<br>
+<br/>
 - После этого, запустится вот такое приложнние.
 ![i3](https://media.discordapp.net/attachments/617626417718624276/1293158998094118912/Pasted_image_20240930183351.png?ex=67065baa&is=67050a2a&hm=f3614fb6de5c477ae5130c744fe1424c06efbdc9f1d36ffb4de010dede62d3f9&=&format=webp&quality=lossless&width=528&height=433)
 - Дальше на будет нужет вот такой vless ключ-профиля, которой можно получить со адмики ui-x или попрасить у владельца который держит сервер:
