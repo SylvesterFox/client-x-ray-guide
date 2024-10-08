@@ -34,8 +34,14 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![i5](https://media.discordapp.net/attachments/617626417718624276/1293159092566753302/Pasted_image_20240930185559.png?ex=67065bc1&is=67050a41&hm=cd966428df536e027460ce663d9cda65053f5b6193f63c97672889ced6628252&=&format=webp&quality=lossless&width=960&height=204)
 
 ### Распространенные проблемы 
-`Пока не написал`
+## Клиент использует адаптер Radmin VPN или Hamachi
+Частая проблема решается отключением этих адаптеров
+`Панель управление >> Центр управления сетями >> Измение параметров адаптера`
 
+![i6](https://cdn.discordapp.com/attachments/617626417718624276/1293257584182296596/image.png?ex=6706b77b&is=670565fb&hm=d0554e79646d8481e4caba93ce393eda7d6f58ee9445340573e37982083aae2d&)
+
+Отключаем адаптеры с назваинем Radmin VPN или Hamachi, правой кнопкой по адаптеру и отключить.
+![i7](https://cdn.discordapp.com/attachments/617626417718624276/1293258974337962075/image.png?ex=6706b8c7&is=67056747&hm=49cd0aa0896336b64358157d6626020142211a4739825f97a292401474a422a0&)
 
 ## Для android
 
