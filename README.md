@@ -48,15 +48,15 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Для aндроид мы будем использовать приложение `v2rayNG` скачать его можно в Google Play
 
-[i8](https://cdn.discordapp.com/attachments/617626417718624276/1293281832867074162/Screenshot_20241008_213721_com.hihonor.android.launcher.jpg?ex=6706ce10&is=67057c90&hm=c8230a0f73da34913234825203c34815678683ce338f4db428a58340a951c512&)
+![i8](https://cdn.discordapp.com/attachments/617626417718624276/1293281832867074162/Screenshot_20241008_213721_com.hihonor.android.launcher.jpg?ex=6706ce10&is=67057c90&hm=c8230a0f73da34913234825203c34815678683ce338f4db428a58340a951c512&)
 
 Открываем его, сверху будет `+` нажимаем на его и покажется контекстное меню предварительно у нас ключ vless должен быть скопирован в буфер обмена, если это сделано то нажимаем `Импорт из буфера обмена`, или если у вас qr-code то `Импорт из QR-кода`
 
-[i9](https://media.discordapp.net/attachments/617626417718624276/1293286087950860360/Screenshot_20241008_215617_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=01979ab4d6b623b15d25b4546c58b4e395c671b96273c8255cc4b9649d325a1e&=&format=webp&width=732&height=312)
+![i9](https://media.discordapp.net/attachments/617626417718624276/1293286087950860360/Screenshot_20241008_215617_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=01979ab4d6b623b15d25b4546c58b4e395c671b96273c8255cc4b9649d325a1e&=&format=webp&width=732&height=312)
 
 После данных действей у нас появится профиль, нажимаем на него чтобы выбрать, и на серую кнопку `>` чтобы запустить.
 
-[i10](https://media.discordapp.net/attachments/617626417718624276/1293286087678099516/Screenshot_20241008_215649_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=f0c57c63a0cd1d546cc8d82e2b6fd20e7939e9b700740dc56fe4274658fc5c66&=&format=webp&width=960&height=269)
+![i10](https://media.discordapp.net/attachments/617626417718624276/1293286087678099516/Screenshot_20241008_215649_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=f0c57c63a0cd1d546cc8d82e2b6fd20e7939e9b700740dc56fe4274658fc5c66&=&format=webp&width=960&height=269)
 
 И теперь кайфуем.
 
