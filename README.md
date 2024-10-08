@@ -33,8 +33,8 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - И дальше радуемся жизью в интернете
 ![i5](https://media.discordapp.net/attachments/617626417718624276/1293159092566753302/Pasted_image_20240930185559.png?ex=67065bc1&is=67050a41&hm=cd966428df536e027460ce663d9cda65053f5b6193f63c97672889ced6628252&=&format=webp&quality=lossless&width=960&height=204)
 
-### Распространенные проблемы 
-## Клиент использует адаптер Radmin VPN или Hamachi
+## Распространенные проблемы 
+### Клиент использует адаптер Radmin VPN или Hamachi
 Частая проблема решается отключением этих адаптеров
 `Панель управление >> Центр управления сетями >> Измение параметров адаптера`
 
