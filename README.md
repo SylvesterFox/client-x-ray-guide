@@ -1,17 +1,16 @@
 # Настройка и использование клиента Nekoray для протокола X-Ray
 
 ## Настройка для ПК
-- Для начала скачайте клиент из официального репозитория [Nekoray на GitHub](https://github.com/MatsuriDayo/nekoray/releases/tag/3.26)
-- __Клиент есть для Linux и Windows__
+- Для начала скачайте клиент из официального репозитория [Nekoray на GitHub](https://github.com/MatsuriDayo/nekoray/releases/tag/3.26). __Клиент есть только для Linux и Windows__, для MacOS не завезли, увы.
 
-![i1](https://media.discordapp.net/attachments/617626417718624276/1293158975352606741/Pasted_image_20240930180817.png?ex=67065ba5&is=67050a25&hm=3420ac1b9755bf899e72e0ca8a5252b2ce000d41db89b07acde9b4b4f8108f52&=&format=webp&quality=lossless&width=960&height=208)
+![image1](https://github.com/user-attachments/assets/1654d1e1-aa9c-451f-af59-b9b0efae399b)
 
 ### Настройка для ОС Windows
 
-- После того как Вы скачали архив, его необходимо разархивиировать в любое вам удобное место. Желательно сделать это в папку с программами _`(C:\Program Files\Nekoray)`_.
-- Далее переходим в разархивированную папку с Nekoray и находим исполняемый файл **`nekoray.exe`**, запускаем его.
+- После того как Вы скачали архив, его необходимо разархивиировать в любое удобное Вам место, но желательно сделать это в папку с остальными программами, например _`(C:\Program Files\Nekoray)`_.
+- Далее откройте папку, которую вы только что разархивировали, с Nekoray, и найдите в ней исполняемый файл **`nekoray.exe`**. Запустите его.
 
-Далее у Вас откроется следующее окно, обязательно выбираем **`xray`!!!**
+Далее у Вас откроется следующее окно, обязательно выбираем **`Xray`!!!**
 
 ![i2](https://media.discordapp.net/attachments/617626417718624276/1293159025013297162/Pasted_image_20240930184616.png?ex=67065bb1&is=67050a31&hm=2853de915ebdef56a86f57cf957c7fe0d97656e2b84cf4a15e72f3dd48c9c2b2&=&format=webp&quality=lossless&width=407&height=334)
 
@@ -19,13 +18,13 @@
 
 ![i3](https://media.discordapp.net/attachments/617626417718624276/1293158998094118912/Pasted_image_20240930183351.png?ex=67065baa&is=67050a2a&hm=f3614fb6de5c477ae5130c744fe1424c06efbdc9f1d36ffb4de010dede62d3f9&=&format=webp&quality=lossless&width=528&height=433)
 
-- Дальше Вам будет нужет вот такой vless ключ-профиля, которой можно получить из адмики ui-x, или попросить у владельца VPN-сервера, который будет выглядить примерно вот так:
+- Далее вам понадобится VLESS-ключ профиля, который можно получить в админке **`ui-x`** или запросить у владельца VPN-сервера. Ключ будет выглядеть примерно так:
 ```
-vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-- Мы его копируем в буфер обмена, и переходим обратно в наш клиент, в самом клиенте кликаем в верхней менюшке на пункт **`Program`** > **`Add profile from clipboard`**
-- После этого у нас появится профиль нашего подключения
+- Скопируйте ключ в буфер обмена, затем вернитесь в клиент Nekoray. В верхнем меню клиента выберите пункт **`Program`** > **`Add profile from clipboard`**
+- После этого профиль подключения появится в списке профилей клиента Nekoray.
 ![i4](https://media.discordapp.net/attachments/617626417718624276/1293159056533360701/Pasted_image_20240930185051.png?ex=67065bb8&is=67050a38&hm=f6d6a40adc2d4545cff7f0297990f2c35419aed129d05e6574b699e434943f71&=&format=webp&quality=lossless&width=717&height=104)
 - Далее нажимаем правой кнопкой мыши по профилю, и в появившемся контекстном меню выбираем пункт _**`Запустить`**_, после чего в верхней части программы включаем две галочки: **`Tun Mode`** и **`System Proxy`**.
 - **PROFIT!** Продолжаем радоваться свободжой жизни в интернете.
