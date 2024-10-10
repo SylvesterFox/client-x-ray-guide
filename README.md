@@ -1,7 +1,7 @@
 # Настройка и использование клиента Nekoray для протокола X-Ray
 
 ## Настройка для ПК
-- Для начала скачайте клиент из официального репозитория [Nekoray на GitHub](https://github.com/MatsuriDayo/nekoray/releases/tag/3.26). __Клиент есть только для Linux и Windows__, для MacOS не завезли, увы.
+- Для начала скачайте последнюю релизную версию клиента _(На данный момент это 3.26)_ из официального репозитория [Nekoray на GitHub](https://github.com/MatsuriDayo/nekoray/tags). __Клиент есть только для Linux и Windows__, для MacOS не завезли, увы.
 
 ![image1](https://github.com/user-attachments/assets/1654d1e1-aa9c-451f-af59-b9b0efae399b)
 
