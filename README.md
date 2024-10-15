@@ -62,3 +62,29 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## Для IOS
 
 `У меня нету устройства на управление IOS, но вы можете попробовать V2Box, практически аналог v2rayNG`
+
+## Настройка nekoray, на проксировние конкретных приложений
+
+В клиенте верхнем меню будет конпка **`Settings`** >> **`Settings TUN-mode`**
+
+![image11](https://cdn.discordapp.com/attachments/617626417718624276/1295790878337798215/image.png?ex=670feecc&is=670e9d4c&hm=a92c522fadb407a6117d0ebcbb202331e551cf294f9e4484b9fc7028f9cd32e1&)
+
+В дочерним окне в строчке **`Stack`** ставим его на **`gVisor`**
+
+![image](https://github.com/user-attachments/assets/91d68326-9b4c-4f26-9b1d-147cc332f70f)
+
+В этом же окне, правом в нижнем углу нужно поставить галку **`Режим белого списка`**, чтобы лишние приложение не шли через трафик прокси, а только по белому списку.
+
+![image](https://github.com/user-attachments/assets/a9ce0f78-c762-4464-abec-9a1e907721af)
+
+Дальше вписоваем нужные процессы которые будут проксироваться, и нажимаем OK
+
+![image](https://github.com/user-attachments/assets/52ee59ea-21f0-434c-be75-56bc06e0f89f)
+
+Теперь что бы оно работало, заспукаем нужный профель, и ставми галочку только на **`Tun Mode`**, **`System Proxy`** мы не трогаем, а то все приложеня будет проходить через весь трафик нашего прокси
+
+![image](https://github.com/user-attachments/assets/6109a17d-f729-4d9d-92cc-13e30a997bc8)
+
+И теперь можем наблюдать что трафик Хрома проходит через прокси, а вот Опера проходит через обычный трафик моего провайдера.
+
+![image](https://github.com/user-attachments/assets/d2d5da05-7bd9-4106-a040-a9ceb975c14c)
