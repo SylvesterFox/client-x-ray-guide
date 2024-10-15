@@ -55,7 +55,7 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 После данных действий у Вас появится профиль, нажимаем на него чтобы выбрать, и на серую кнопку `>` чтобы запустить.
 
-![i10](https://media.discordapp.net/attachments/617626417718624276/1293286087678099516/Screenshot_20241008_215649_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=f0c57c63a0cd1d546cc8d82e2b6fd20e7939e9b700740dc56fe4274658fc5c66&=&format=webp&width=960&height=269)
+![i10](https://media.discordapp.net/attachments/758076597159854170/1178134754395172905/dragon_flute_bounce_music.gif?ex=670fb5be&is=670e643e&hm=4c5ee5acdbd7fe253bef4f57b576a8086f2c71e6c0669f773d09fee906824434&)
 
 И теперь кайфуем.
 
