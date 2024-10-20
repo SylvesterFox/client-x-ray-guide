@@ -12,11 +12,12 @@
 
 Далее у Вас откроется следующее окно, обязательно выбираем **`Xray`!!!**
 
-![i2](https://media.discordapp.net/attachments/617626417718624276/1293159025013297162/Pasted_image_20240930184616.png?ex=67065bb1&is=67050a31&hm=2853de915ebdef56a86f57cf957c7fe0d97656e2b84cf4a15e72f3dd48c9c2b2&=&format=webp&quality=lossless&width=407&height=334)
+![Pasted_image_20240930184616](https://github.com/user-attachments/assets/b488c7da-c744-4481-9cb6-4b9f2b0b881b)
 
 После выбора протокола **Xray**, Вы увидите интерфейс приложения **`Nekoray`**:
 
-![i3](https://media.discordapp.net/attachments/617626417718624276/1293158998094118912/Pasted_image_20240930183351.png?ex=67065baa&is=67050a2a&hm=f3614fb6de5c477ae5130c744fe1424c06efbdc9f1d36ffb4de010dede62d3f9&=&format=webp&quality=lossless&width=528&height=433)
+![Pasted_image_20240930183351](https://github.com/user-attachments/assets/ce53a4b5-25bc-42da-bd4b-f1d7d78f10e0)
+
 
 - Далее вам понадобится VLESS-ключ профиля, который можно получить в админке **`ui-x`** или запросить у владельца VPN-сервера. Ключ будет выглядеть примерно так:
 ```
@@ -25,37 +26,42 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 - Скопируйте ключ в буфер обмена, затем вернитесь в клиент Nekoray. В верхнем меню клиента выберите пункт **`Program`** > **`Add profile from clipboard`**
 - После этого профиль подключения появится в списке профилей клиента Nekoray.
-![i4](https://media.discordapp.net/attachments/617626417718624276/1293159056533360701/Pasted_image_20240930185051.png?ex=67065bb8&is=67050a38&hm=f6d6a40adc2d4545cff7f0297990f2c35419aed129d05e6574b699e434943f71&=&format=webp&quality=lossless&width=717&height=104)
+![Pasted_image_20240930185051](https://github.com/user-attachments/assets/ee8076ec-fdf6-43d8-b277-2053ec0e2697)
 - Далее нажимаем правой кнопкой мыши по профилю, и в появившемся контекстном меню выбираем пункт _**`Запустить`**_, после чего в верхней части программы включаем две галочки: **`Tun Mode`** и **`System Proxy`**.
 - **PROFIT!** Продолжаем радоваться свободжой жизни в интернете.
-![i5](https://media.discordapp.net/attachments/617626417718624276/1293159092566753302/Pasted_image_20240930185559.png?ex=67065bc1&is=67050a41&hm=cd966428df536e027460ce663d9cda65053f5b6193f63c97672889ced6628252&=&format=webp&quality=lossless&width=960&height=204)
+![Pasted_image_20240930185559](https://github.com/user-attachments/assets/b68292d8-9b9c-4e7b-92fb-557f4b7cebe7)
 
 ## Распространенные проблемы 
 ### После подключения полностью пропадает интернет. (Клиент использует неправильный адаптер, скорее всего адаптер Radmin VPN или Hamachi)
 Это довольно частая проблема которая решается отключением этих адаптеров в настройках сетевых адаптеров:
 **`Панель управления`** >> **`Центр управления сетями и общим доступом`** >> **`Измение параметров адаптера`**
 
-![i6](https://cdn.discordapp.com/attachments/617626417718624276/1293257584182296596/image.png?ex=6706b77b&is=670565fb&hm=d0554e79646d8481e4caba93ce393eda7d6f58ee9445340573e37982083aae2d&)
+![image](https://github.com/user-attachments/assets/9e467ddf-42ca-456f-b4d7-4395a3ce91f6)
+
 
 Отключаем адаптеры с названием Radmin VPN или Hamachi _`(Рекомендуется отключить все лишние и ненужные адаптеры, но по идее достаточно будет отключить только эти)`_, для этого нажимаем правой кнопкой мыши по адаптеру, и выбираем пункт **`Отключить`**.
 
 ---
 
-![i7](https://cdn.discordapp.com/attachments/617626417718624276/1293258974337962075/image.png?ex=6706b8c7&is=67056747&hm=49cd0aa0896336b64358157d6626020142211a4739825f97a292401474a422a0&)
+![image (1)](https://github.com/user-attachments/assets/bf4f4a5f-e87c-4420-a433-e7a4b50e437f)
 
 ## Настройка для телефонов на ОС Android
 
 Для Android мы будем использовать приложение `v2rayNG` скачать его можно в Google Play
 
-![i8](https://cdn.discordapp.com/attachments/617626417718624276/1293281832867074162/Screenshot_20241008_213721_com.hihonor.android.launcher.jpg?ex=6706ce10&is=67057c90&hm=c8230a0f73da34913234825203c34815678683ce338f4db428a58340a951c512&)
+![Screenshot_20241008_213721_com hihonor android launcher](https://github.com/user-attachments/assets/73f7bf0a-c7fb-45e1-b1c8-8e64495d237e)
+
 
 Открываем его, сверху будет `+` нажимаем на него и покажется контекстное меню, _**ключ vless должен быть предварительно скопирован в буфер обмена**_, если это сделано, то нажимаем **`Импорт из буфера обмена`**, если же у вас QR-код, то выбирайте пункт **`Импорт из QR-кода`**.
 
-![i9](https://media.discordapp.net/attachments/617626417718624276/1293286087950860360/Screenshot_20241008_215617_com.v2ray.ang.jpg?ex=6706d207&is=67058087&hm=01979ab4d6b623b15d25b4546c58b4e395c671b96273c8255cc4b9649d325a1e&=&format=webp&width=732&height=312)
+![Screenshot_20241008_215617_com v2ray ang](https://github.com/user-attachments/assets/5926540c-313f-432c-b932-74fc1c9e7aab)
+
+![Screenshot_20241008_215649_com v2ray ang](https://github.com/user-attachments/assets/93649689-4967-4e53-9064-4b7ff7e11dbe)
+
 
 После данных действий у Вас появится профиль, нажимаем на него чтобы выбрать, и на серую кнопку `>` чтобы запустить.
 
-![i10](https://media.discordapp.net/attachments/758076597159854170/1178134754395172905/dragon_flute_bounce_music.gif?ex=670fb5be&is=670e643e&hm=4c5ee5acdbd7fe253bef4f57b576a8086f2c71e6c0669f773d09fee906824434&)
+![dragon_flute_bounce_music](https://github.com/user-attachments/assets/29c43ca6-a6e1-4e7d-b597-37f70f0a2c9b)
 
 И теперь кайфуем.
 
@@ -67,7 +73,8 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 В клиенте верхнем меню будет конпка **`Settings`** >> **`Settings TUN-mode`**
 
-![image11](https://cdn.discordapp.com/attachments/617626417718624276/1295790878337798215/image.png?ex=670feecc&is=670e9d4c&hm=a92c522fadb407a6117d0ebcbb202331e551cf294f9e4484b9fc7028f9cd32e1&)
+![image (2)](https://github.com/user-attachments/assets/2c6a6d55-c55d-4bc2-aaee-22d5065430d4)
+
 
 В дочерним окне в строчке **`Stack`** ставим его на **`gVisor`**
 
