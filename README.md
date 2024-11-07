@@ -31,6 +31,15 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - **PROFIT!** Продолжаем радоваться свободжой жизни в интернете.
 ![Pasted_image_20240930185559](https://github.com/user-attachments/assets/b68292d8-9b9c-4e7b-92fb-557f4b7cebe7)
 
+### Для macOS
+Есть порт nekoray который поддерживает macOS, есть версии для Arm/intel процов [Nekoray/macOS на Github](https://github.com/abbasnaqdi/nekoray-macos/releases)
+![image](https://github.com/user-attachments/assets/b9b88d8b-88b7-47de-938a-d766ba14fa5e)
+
+Поддерживает: `macOS 10.15 Catalina` и выше.
+
+**Все аналогичнно настраивается по гайду выше**
+![IMG_20241108_001104](https://github.com/user-attachments/assets/ec8b2041-9cb6-48f1-92f2-96285ee95c03)
+
 ## Распространенные проблемы 
 ### После подключения полностью пропадает интернет. (Клиент использует неправильный адаптер, скорее всего адаптер Radmin VPN или Hamachi)
 Это довольно частая проблема которая решается отключением этих адаптеров в настройках сетевых адаптеров:
@@ -43,16 +52,6 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![image (1)](https://github.com/user-attachments/assets/bf4f4a5f-e87c-4420-a433-e7a4b50e437f)
 
 Отключаем адаптеры с названием Radmin VPN или Hamachi _`(Рекомендуется отключить все лишние и ненужные адаптеры, но по идее достаточно будет отключить только эти)`_, для этого нажимаем правой кнопкой мыши по адаптеру, и выбираем пункт **`Отключить`**.
-
-### Для macOS
-Есть порт nekoray который поддерживает macOS, есть версии для Arm/intel процов [Nekoray/macOS на Github](https://github.com/abbasnaqdi/nekoray-macos/releases)
-![image](https://github.com/user-attachments/assets/b9b88d8b-88b7-47de-938a-d766ba14fa5e)
-
-Поддерживает: `macOS 10.15 Catalina` и выше.
-
-**Все аналогичнно настраивается по гайду выше**
-![IMG_20241108_001104](https://github.com/user-attachments/assets/ec8b2041-9cb6-48f1-92f2-96285ee95c03)
-
 
 ## Для смартфонов
 
