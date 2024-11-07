@@ -38,6 +38,9 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ![image](https://github.com/user-attachments/assets/9e467ddf-42ca-456f-b4d7-4395a3ce91f6)
 
+---
+
+![image (1)](https://github.com/user-attachments/assets/bf4f4a5f-e87c-4420-a433-e7a4b50e437f)
 
 Отключаем адаптеры с названием Radmin VPN или Hamachi _`(Рекомендуется отключить все лишние и ненужные адаптеры, но по идее достаточно будет отключить только эти)`_, для этого нажимаем правой кнопкой мыши по адаптеру, и выбираем пункт **`Отключить`**.
 
@@ -50,9 +53,6 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 **Все аналогичнно настраивается по гайду выше**
 ![IMG_20241108_001104](https://github.com/user-attachments/assets/ec8b2041-9cb6-48f1-92f2-96285ee95c03)
 
----
-
-![image (1)](https://github.com/user-attachments/assets/bf4f4a5f-e87c-4420-a433-e7a4b50e437f)
 
 ## Для смартфонов
 
