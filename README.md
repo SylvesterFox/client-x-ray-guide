@@ -41,11 +41,22 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Отключаем адаптеры с названием Radmin VPN или Hamachi _`(Рекомендуется отключить все лишние и ненужные адаптеры, но по идее достаточно будет отключить только эти)`_, для этого нажимаем правой кнопкой мыши по адаптеру, и выбираем пункт **`Отключить`**.
 
+### Для macOS
+Есть порт nekoray который поддерживает macOS, есть версии для Arm/intel процов [Nekoray/macOS на Github](https://github.com/abbasnaqdi/nekoray-macos/releases)
+![image](https://github.com/user-attachments/assets/b9b88d8b-88b7-47de-938a-d766ba14fa5e)
+
+Поддерживает: `macOS 10.15 Catalina` и выше.
+
+**Все аналогичнно настраивается по гайду выше**
+![IMG_20241108_001104](https://github.com/user-attachments/assets/ec8b2041-9cb6-48f1-92f2-96285ee95c03)
+
 ---
 
 ![image (1)](https://github.com/user-attachments/assets/bf4f4a5f-e87c-4420-a433-e7a4b50e437f)
 
-## Настройка для телефонов на ОС Android
+## Для смартфонов
+
+##№ Настройка для смартфонов на ОС Android
 
 Для Android мы будем использовать приложение `v2rayNG` скачать его можно в Google Play
 
