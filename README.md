@@ -69,7 +69,7 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ![Screenshot_20241008_215649_com v2ray ang](https://github.com/user-attachments/assets/93649689-4967-4e53-9064-4b7ff7e11dbe)
 
 
-После данных действий у Вас появится профиль, нажимаем на него чтобы выбрать, и на серую кнопку `>` чтобы запустить.
+После данных действий у Вас появится профиль, нажимаем на него чтобы его выбрать, и потом на серую кнопку `>` чтобы запустить.
 
 ![dragon_flute_bounce_music](https://github.com/user-attachments/assets/29c43ca6-a6e1-4e7d-b597-37f70f0a2c9b)
 
@@ -77,24 +77,24 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Для IOS
 
-`У меня нету устройства на управление IOS, но вы можете попробовать V2Box, практически аналог v2rayNG`
+`У меня нет устройства под управлением iOS, но вы можете попробовать установить V2Box, практически аналог v2rayNG`
 
 ## Настройка nekoray, на проксировние конкретных приложений
 
-В клиенте верхнем меню будет конпка **`Settings`** >> **`Settings TUN-mode`**
+В клиенте в верхнем меню нажимаем на кнопку **`Settings`** >> **`Settings TUN-mode`**
 
 ![image (2)](https://github.com/user-attachments/assets/2c6a6d55-c55d-4bc2-aaee-22d5065430d4)
 
 
-В дочерним окне в строчке **`Stack`** ставим его на **`gVisor`**
+В дочернем окне в строчке **`Stack`** ставим его на **`gVisor`**
 
 ![image](https://github.com/user-attachments/assets/91d68326-9b4c-4f26-9b1d-147cc332f70f)
 
-В этом же окне, правом в нижнем углу нужно поставить галку **`Режим белого списка`**, чтобы лишние приложение не шли через трафик прокси, а только по белому списку.
+В этом же окне, правом в нижнем углу нужно поставить галочку **`Режим белого списка`**, чтобы лишние приложения не пускали свой через трафик прокси, а только приложеня белому списку.
 
 ![image](https://github.com/user-attachments/assets/a9ce0f78-c762-4464-abec-9a1e907721af)
 
-Дальше вписоваем нужные процессы которые будут проксироваться, и нажимаем OK
+Дальше прописываем нужные нам процессы которые будут проксироваться, и нажимаем OK
 
 ![image](https://github.com/user-attachments/assets/52ee59ea-21f0-434c-be75-56bc06e0f89f)
 
