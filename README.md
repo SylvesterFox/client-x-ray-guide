@@ -5,7 +5,7 @@
 
 ![image1](https://github.com/user-attachments/assets/1654d1e1-aa9c-451f-af59-b9b0efae399b)
 
-### Настройка для ОС Windows
+### Настройка для ПК на ОС Windows
 
 - После того как Вы скачали архив, его необходимо разархивиировать в любое удобное Вам место, но желательно сделать это в папку с остальными программами, например _`(C:\Program Files\Nekoray)`_.
 - Далее откройте папку, которую вы только что разархивировали, с Nekoray, и найдите в ней исполняемый файл **`nekoray.exe`**. Запустите его.
@@ -31,11 +31,9 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 - **PROFIT!** Продолжаем радоваться свободжой жизни в интернете.
 ![Pasted_image_20240930185559](https://github.com/user-attachments/assets/b68292d8-9b9c-4e7b-92fb-557f4b7cebe7)
 
-### Для macOS
-Есть порт nekoray который поддерживает macOS, есть версии для Arm/intel процов [Nekoray/macOS на Github](https://github.com/abbasnaqdi/nekoray-macos/releases)
+### Для компьютеров под macOS
+Есть порт nekoray который поддерживает macOS, есть версия как для x86, так и для ARM (Apple M) процессоров. Требуется: `macOS 10.15 Catalina` и выше. [Скачать Nekoray для macOS на Github](https://github.com/abbasnaqdi/nekoray-macos/releases)
 ![image](https://github.com/user-attachments/assets/b9b88d8b-88b7-47de-938a-d766ba14fa5e)
-
-Поддерживает: `macOS 10.15 Catalina` и выше.
 
 **Все аналогичнно настраивается по гайду выше**
 ![IMG_20241108_001104](https://github.com/user-attachments/assets/ec8b2041-9cb6-48f1-92f2-96285ee95c03)
@@ -77,7 +75,11 @@ vless://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Для IOS
 
-`У меня нет устройства под управлением iOS, но вы можете попробовать установить V2Box, практически аналог v2rayNG`
+Устанавливаем [V2Box из AppStore](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690), я использовал iPhone 6s под управлением iOS 15.8.3
+
+*~~ToDo: Добавить скриншот V2Box из AppStore~~*
+
+
 
 ## Настройка nekoray, на проксировние конкретных приложений
 
