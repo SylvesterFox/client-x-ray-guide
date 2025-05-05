@@ -1,3 +1,4 @@
+```
 dis.gd,
 discord.co,
 discord.com,
@@ -18,3 +19,4 @@ discordmerch.com,
 discordpartygames.com,
 discordsays.com,
 discordstatus.com
+```
