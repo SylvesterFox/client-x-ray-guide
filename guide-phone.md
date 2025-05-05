@@ -16,15 +16,15 @@
 > Убедитесь, что скопирована только ссылка, а не весь текст сообщения! Чтобы скопировать ссылку - просто нажмите на нее один раз, и она скопируется сама. Выделять ее не требуется.
 
 **3. Откройте приложение, перейдите в раздел "конфиги", нажмите плюсик справа вверху**
-![image](https://gist.github.com/user-attachments/assets/6ad570d9-ebd7-4241-b285-4713ca77cab8)
+![image](https://github.com/user-attachments/assets/820e2150-c54b-4e82-8905-2c996476d909)
 
 **Импорт ссылки из буфера обмена (первая строка)**
 
-![image](https://gist.github.com/user-attachments/assets/4cc1da89-c821-4f3e-b479-972df8ad0f7f)
+![image](https://github.com/user-attachments/assets/fe889666-4d99-4754-964f-12060178311c)
 
 **4. Выберите сервер и нажмите на запуск**
 
-![image](https://gist.github.com/user-attachments/assets/ab83e458-1e38-4fa9-8c2d-82c68a4049f3)
+![image](https://github.com/user-attachments/assets/2c5d3d44-be39-46e6-a0df-6d74d405c9da)
 
 **Готово!**
 
@@ -44,19 +44,20 @@
 ## Как включить ВПН только для определенных приложений (V2BOX)
 **1. Перейдите в настройки, включите Per-app proxy**
 
-![image](https://gist.github.com/user-attachments/assets/4b2a39b9-f044-409e-9183-09d3ba18dcc0)
+![image](https://github.com/user-attachments/assets/c2424813-8151-4ae9-a1bb-8cdb05b6ff6e)
 
 **2. Выберите из списка приложения, которые должны работать с ВПН**
 
-![image](https://gist.github.com/user-attachments/assets/b985a0c7-8df0-4c0c-8548-da15421067ee)
+![image](https://github.com/user-attachments/assets/02ff4eec-a357-4525-bdf9-336550fff6e8)
 
 **3. Перейдите в "Home", и маршрутизация**
 
-![photo_2025-03-31_23-46-08](https://gist.github.com/user-attachments/assets/2365be84-b0d0-4d02-af50-d694ce594c3f)
+![image](https://github.com/user-attachments/assets/5e3b2c30-8e35-47a3-ac7a-86dacf515832)
+
 
 **4. Включить "Домен только для маршрутизации"**
 
-![image](https://gist.github.com/user-attachments/assets/ed6a0a50-ab16-432c-bd3e-d5cd09767ca9)
+![image](https://github.com/user-attachments/assets/2984dfa1-dbb5-48b2-accd-5032c87a3ac8)
 
 **Все остальные программы будут работать без впн.**
 
@@ -64,14 +65,14 @@
 
 **1. Перейдите в настройки**
 
-![image](https://gist.github.com/user-attachments/assets/5a09cbba-efb6-4844-9e38-0a002e9e5a56)
+![image](https://github.com/user-attachments/assets/7abe3927-c707-4e2b-8a78-938ecc27b6bc)
 
 **2. Включите "Прокси для выбранных приложений**
 
-![image](https://gist.github.com/user-attachments/assets/9689e2b1-26aa-408d-a08d-5bc1f2e11f9a)
+![image](https://github.com/user-attachments/assets/97cf9037-8b3e-4b3c-84b2-5e1445406755)
 
 **3. Выберите из списка приложения, которые должны работать с ВПН**
 
-![image](https://gist.github.com/user-attachments/assets/f24e292c-c4a7-414f-a4b4-f5a03baa77f5)
+![image](https://github.com/user-attachments/assets/db382b5d-b893-45d5-b930-e1d00f310630)
 
 **Все остальные программы будут работать без впн.**
