@@ -86,9 +86,9 @@ regexp:\.*$
 
 **Для дискорда и ютуба есть сборник Доменов правил в ссылках ниже**
 
-[Пак доменов дискорда]()
+[Пак доменов дискорда](https://github.com/SylvesterFox/client-x-ray-guide/blob/main/Discord-domains.md)
 
-[Пак доменов ютуба]()
+[Пак доменов ютуба](https://github.com/SylvesterFox/client-x-ray-guide/blob/main/YouTube-domain.md)
 
 - Покажу на примере дискорда, в *remaks* называем `discord`, в `outboundTag` ставим `proxy`, в `network` ставим `tcp,udp` чтобы работал войс, в `Domain` вставляем [домены дискорда](), а вот колонне `Full process name (Tun mode)` пишем назваине процесса `Discord.exe` (Если у вас ядро линукс тот без `.exe`)
 
