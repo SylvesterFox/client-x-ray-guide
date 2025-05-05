@@ -9,7 +9,7 @@
 
 ## Подключение к впн (V2BOX)
 **1. Скачайте приложение [V2BOX](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) из Play Store по ссылке**
-**Так же [V2BOX](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690) есть на IOS **
+**Так же [V2BOX](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690) есть на IOS**
 
 **2. Скопируйте конфиг-ссылку в боте, нажав на нее**
 
